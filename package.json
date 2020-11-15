@@ -1,0 +1,16 @@
+{
+  "name": "chat-group",
+  "version": "1.0.0",
+  "description": "server grpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Daniela Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.5",
+    "google-protobuf": "^3.14.0-rc.1",
+    "grpc": "^1.24.3"
+  }
+}
